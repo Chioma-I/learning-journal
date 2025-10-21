@@ -16,7 +16,7 @@ I had a different friend, Kiara, help me she sent me the code and explained part
 <img width="770" height="653" alt="image" src="https://github.com/user-attachments/assets/64f8b626-4c71-4f7f-a579-60811466a6b6" />
 <img width="708" height="636" alt="image" src="https://github.com/user-attachments/assets/5d487893-bed2-4c78-bdf5-46e05e36119e" />
 <img width="784" height="651" alt="image" src="https://github.com/user-attachments/assets/c36e788f-6252-4ec7-9c0a-6e0f2ff9777b" />
-The code she gave me allows the player to move along the X axis and the Z axis. Im going to try editing it so it only moves along the X axis
+The code she gave me allows the player to move along the X axis and the Z axis. Im going to try editing it so it only moves along the X axis.
 I worked it out, "targetPosition.[] = transform.position.[];" allows you to keep something in the same position on that axis throughout movement!
 i should put a gif of it working
 
