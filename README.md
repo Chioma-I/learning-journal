@@ -32,3 +32,6 @@ i should put a gif of it working
 
 ## 21/10/2025
 I need to test if the character changes direction with this movement script. I guess id have to put some asset on it...?
+
+In Unity 6 to create a script you need to right click, create, scripting, the choose the type of script, usually MonoBehaviour
+
