@@ -28,10 +28,19 @@ I had a different friend, Kiara, help me she sent me the code and explained part
 The code she gave me allows the player to move along the X axis and the Z axis. Im going to try editing it so it only moves along the X axis.
 
 I worked it out, "targetPosition.[] = transform.position.[];" allows you to keep something in the same position on that axis throughout movement!
-i should put a gif of it working
+![Point   Click Movement](https://github.com/user-attachments/assets/a970c126-97c0-4c66-acf6-b72ced1a885c)
+
 
 ## 21/10/2025
 I need to test if the character changes direction with this movement script. I guess id have to put some asset on it...?
 
 In Unity 6 to create a script you need to right click, create, scripting, the choose the type of script, usually MonoBehaviour
 
+## 24/10/2025
+I was quickly trying to make a movement script from memory (i managed to do half of it, ill memorise it eventually) but I decided I also wanted to try moving up and down too, not jump movement but top down rpg style movement. It moves in the Z axis instead of the Y axis, need to figure out how to change that. 
+Tried to change it in the Input Manager, did not do anything.
+Worked it out, im supposed to put "up" for the second vector3 code, not forward. Also worth noting you can have any variable after vector3. Idk wats smart but since "move" was in use I used "evom", should thing of something better
+I cant recall the difference between MonoBehaviour and ScriptableObject, not sure which the camera should use
+First im trying to use a tutorial online, I entered only a bit of code and but the moment I ran my program it caused an error
+<img width="753" height="37" alt="image" src="https://github.com/user-attachments/assets/4b2c5a78-b99c-44a0-a51b-9878de506701" />
+Thought I worked it out, the first line of code, "public class" didnt say the name of the file. Fixed it but that didnt fix the error
