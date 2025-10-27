@@ -44,3 +44,12 @@ I cant recall the difference between MonoBehaviour and ScriptableObject, not sur
 First im trying to use a tutorial online, I entered only a bit of code and but the moment I ran my program it caused an error
 <img width="753" height="37" alt="image" src="https://github.com/user-attachments/assets/4b2c5a78-b99c-44a0-a51b-9878de506701" />
 Thought I worked it out, the first line of code, "public class" didnt say the name of the file. Fixed it but that didnt fix the error
+
+## 27/10/2025
+Kiara has given me a script and explained some things in the script, some things in our texts when I asked questions.
+https://www.programiz.com/online-compiler/3LqwlEVJVSyVA
+At first it seemed like it didnt work. The movement seemed to no longer work.
+![2D Camera error](https://github.com/user-attachments/assets/2b9eaa28-4fbe-47ee-85be-c0e1256daadd)
+Afterwards I realised that it might look like it doesnt work because theres nothing else in the scene, after I added something it was clear that it was always fine.
+![2D Camera](https://github.com/user-attachments/assets/b6120136-2041-4901-8877-313cf3594d28)
+
