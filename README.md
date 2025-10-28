@@ -54,4 +54,5 @@ Afterwards I realised that it might look like it doesnt work because theres noth
 ![2D Camera](https://github.com/user-attachments/assets/b6120136-2041-4901-8877-313cf3594d28)
 
 ## 28/10/2025
-You need to upload Assets, Packages and ProjectSettings files from your Unity project into GitHub. Dont upload anything while Unity is open, close Unity first
+You need to upload Assets, Packages and ProjectSettings files from your Unity project into GitHub. Dont upload anything while Unity is open, close Unity first.
+I need to remove the spaces from my Unity Project. To do this I need to rename the folder in the files and then remove the project from the unity hub and readd it again
