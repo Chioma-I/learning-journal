@@ -65,6 +65,8 @@ I worked it out, adding a capsule collider to the audio game object made it so i
 https://github.com/user-attachments/assets/cc56e35a-470f-479d-8c25-83aea01ed2f1
 Kiara helped me fix it, by adding "&& !audio.isPlaying" you set an instruction to only play if its is not already playing. && is the and operator for C# and ! in front of a statement means not like it meant in python too.
 https://github.com/user-attachments/assets/709c2663-dca9-434c-b73a-3c773616359e
+<img width="626" height="305" alt="image" src="https://github.com/user-attachments/assets/9d8f88d8-cd91-4808-a27e-025657ae575a" />
+
 
 
 
