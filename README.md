@@ -99,4 +99,13 @@ The camera moves on its own? For some reason?
 Brought back the script, cant just comment it out, i need to edit it, i think
 <img width="505" height="113" alt="image" src="https://github.com/user-attachments/assets/db22988c-9350-4e7f-9bdb-fa98f7dd722c" />
 
+## 2/12/2025
+With Paul's help I figured out what was wrong. First of all I named my script "Camera" and Unity already has a Camera script so there was confusion there, where in my script I refferred to Unity's Camera, Unity thought I reffered to my Camera. To fix that we just needed to define we were refferring to Unity's Camera in the script with "UnityEngine.Camera.main". The second problem was a logical error, the movement not working at all. This was because the camera was positioned at the same height as the player, and so the ray cast from the player was a point thin and night impossible to click. This wasnt a problem in the original script because it made no changes to Unity's camera and was already positioned in a way that let the player hit the ray. To fix this we had to move the camera's position up.
 
+## 4/12/2025
+The text trigger script did not work, I realised this was simply because I forgot to move the poem trigger game object so it would be on the same invisible plane as the player.
+
+
+https://github.com/user-attachments/assets/cd8fe07c-b60d-430a-9d22-5235de0117e5
+
+The only change needed at this point is some way for the text to reappear if the hitbox is entered again.
