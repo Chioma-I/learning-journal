@@ -109,3 +109,8 @@ The text trigger script did not work, I realised this was simply because I forgo
 https://github.com/user-attachments/assets/cd8fe07c-b60d-430a-9d22-5235de0117e5
 
 The only change needed at this point is some way for the text to reappear if the hitbox is entered again.
+
+## 9/12/2024
+Uploading the project on github gives me an error, saying "fatal: detected dubious ownership in repository {file}". I get this error because my project is on my external hard drive and github does not trust this. All you need to do to fix it is make github trust it. Currently dont know how to get the pop up to show up again...
+
+
