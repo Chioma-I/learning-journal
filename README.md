@@ -67,6 +67,8 @@ Kiara helped me fix it, by adding "&& !audio.isPlaying" you set an instruction t
 https://github.com/user-attachments/assets/709c2663-dca9-434c-b73a-3c773616359e
 <img width="626" height="305" alt="image" src="https://github.com/user-attachments/assets/9d8f88d8-cd91-4808-a27e-025657ae575a" />
 
+Voiceline used for the audio is from Lauren Impsumm in the game Date Everything, voiced by Allegra Clark
+
 ## 16/11/2025
 I have asked Kiara for help regarding triggering texts. This is the script she gave me alongside other explanations
 <img width="739" height="625" alt="image" src="https://github.com/user-attachments/assets/38829b61-9a70-46ba-b0cd-8a38ec0f5bf0" />
