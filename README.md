@@ -44,7 +44,9 @@ Tried to change it in the Input Manager, did not do anything.
 Worked it out, im supposed to put "up" for the second vector3 code, not forward. Also worth noting you can have any variable after vector3. I dont know what variable name would be smarter but since "move" was in use I used "evom".
 I cant recall the difference between MonoBehaviour and ScriptableObject, not sure which the camera should use
 First im trying to use a tutorial online, I entered only a bit of code and but the moment I ran my program it caused an error
+
 <img width="753" height="37" alt="image" src="https://github.com/user-attachments/assets/4b2c5a78-b99c-44a0-a51b-9878de506701" />
+
 Thought I worked it out, the first line of code, "public class" didnt say the name of the file. Fixed it but that didnt fix the error.
 Removed this code to start afresh.
 
