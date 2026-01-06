@@ -83,6 +83,7 @@ I have asked Kiara for help regarding triggering texts. This is the script she g
 <img width="739" height="625" alt="image" src="https://github.com/user-attachments/assets/38829b61-9a70-46ba-b0cd-8a38ec0f5bf0" />
 <img width="545" height="738" alt="image" src="https://github.com/user-attachments/assets/acac5b37-8bfa-439d-89f4-a6bd0442bda0" />
 <img width="785" height="96" alt="image" src="https://github.com/user-attachments/assets/564992e4-d3f0-42b3-8a94-0b76dcfd639b" />
+
 However 7 different errors appeared after doing doing this, the first error is with unity not recognising the Player tag, which confuses me because this worked fine with the audio trigger. Figured it out, it was the speechmarks from copying the script, not sure why this happened but somehow the speechmarks were wrong. All 7 errors were because of this.
 ![Text Trigger error](https://github.com/user-attachments/assets/3c8446cd-6834-4b9d-86ab-8e9c6056dd64)
 Logical error, the text isnt appearing and I dont know why.
