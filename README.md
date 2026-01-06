@@ -31,6 +31,7 @@ The code she gave me allows the player to move along the X axis and the Z axis. 
 I worked it out, "targetPosition.[] = transform.position.[];" allows you to keep something in the same position on that axis throughout movement!
 ![Point   Click Movement](https://github.com/user-attachments/assets/a970c126-97c0-4c66-acf6-b72ced1a885c)
 
+https://github.com/Chioma-I/PointAndClickMovement
 
 ## 21/10/2025
 I need to test if the character changes direction with this movement script. I guess I'd have to put some asset on it...?
@@ -55,6 +56,8 @@ At first it seemed like it didnt work. The movement seemed to no longer work.
 Afterwards I realised that it might look like it doesnt work because theres nothing else in the scene, after I added something it was clear that it was always fine.
 ![2D Camera](https://github.com/user-attachments/assets/b6120136-2041-4901-8877-313cf3594d28)
 
+https://github.com/Chioma-I/2DCamera
+
 ## 28/10/2025
 You need to upload Assets, Packages and ProjectSettings files from your Unity project into GitHub. Dont upload anything while Unity is open, close Unity first.
 I need to remove the spaces from my Unity Project. To do this I need to rename the folder in the files and then remove the project from the project list and then re-add it to the unity hub again
@@ -71,6 +74,8 @@ https://github.com/user-attachments/assets/709c2663-dca9-434c-b73a-3c773616359e
 <img width="626" height="305" alt="image" src="https://github.com/user-attachments/assets/9d8f88d8-cd91-4808-a27e-025657ae575a" />
 
 Voiceline used for the audio is from Lauren Impsumm in the game Date Everything, voiced by Allegra Clark
+
+https://github.com/Chioma-I/TriggerAudio
 
 ## 16/11/2025
 I have asked Kiara for help regarding triggering texts. This is the script she gave me alongside other explanations
@@ -91,6 +96,7 @@ We ended up starting from scratch with a new script
 The new script worked perfectly!
 ![Text Trigger](https://github.com/user-attachments/assets/b6f61237-08bb-442e-abef-472639bf4925)
 
+https://github.com/Chioma-I/Text
 
 ## 28/11/2025
 <img width="635" height="338" alt="image" src="https://github.com/user-attachments/assets/43b00041-c04e-474c-ac6d-a63b307e83a5" />
@@ -112,6 +118,8 @@ The text trigger script did not work, I realised this was simply because I forgo
 
 
 https://github.com/user-attachments/assets/cd8fe07c-b60d-430a-9d22-5235de0117e5
+
+https://github.com/Chioma-I/PoemPrototype
 
 ## 9/12/2025
 Uploading the project on github gives me an error, saying "fatal: detected dubious ownership in repository {file}". I get this error because my project is on my external hard drive and github does not trust this. All you need to do to fix it is make github trust it. Currently dont know how to get the pop up to show up again...
