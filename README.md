@@ -59,6 +59,7 @@ I need to remove the spaces from my Unity Project. To do this I need to rename t
 ## 8/11/2025
 I tried searching up how you would make audio trigger in Unity. After following this script I have logical errors, the code itself has what I assume is a variable underlined in green? The script confuses me because if it is a variable should it not be stated earlier in the code, why is the underline green?
 It says I need to give an object a rigid body for it to activate triggers, upon doing this nothing happens still.
+
 I worked it out, adding a capsule collider to the audio game object made it so it triggered audio! It retriggers the audio every time movement happens within the hitboxes though, need to fix that.
 https://github.com/user-attachments/assets/cc56e35a-470f-479d-8c25-83aea01ed2f1
 Kiara helped me fix it, by adding "&& !audio.isPlaying" you set an instruction to only play if its is not already playing. && is the and operator for C# and ! in front of a statement means not like it meant in python too.
