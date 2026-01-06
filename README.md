@@ -105,14 +105,18 @@ https://github.com/Chioma-I/Text
 
 ## 28/11/2025
 <img width="635" height="338" alt="image" src="https://github.com/user-attachments/assets/43b00041-c04e-474c-ac6d-a63b307e83a5" />
+
 Some error wont let me add scripts to objects in unity
+
 <img width="771" height="108" alt="image" src="https://github.com/user-attachments/assets/c9e26484-3fbb-417f-b24e-7e0c4722ef64" />
+
 Something about the camera script broke the movement script and I'm not sure why
 
 The loop in the movement script is in place so that the script works with or without a camera, broke when a camera was added, not sure why this is but commenting it out fixed the issue anyway.
 Did not fix it, now the movement doesnt work...
 The camera moves on its own? For some reason?
 Brought back the script, cant just comment it out, I need to edit it, I think
+
 <img width="505" height="113" alt="image" src="https://github.com/user-attachments/assets/db22988c-9350-4e7f-9bdb-fa98f7dd722c" />
 
 ## 2/12/2025
@@ -128,6 +132,7 @@ https://github.com/Chioma-I/PoemPrototype
 
 ## 9/12/2025
 Uploading the project on github gives me an error, saying "fatal: detected dubious ownership in repository {file}". I get this error because my project is on my external hard drive and github does not trust this. All you need to do to fix it is make github trust it. Currently dont know how to get the pop up to show up again...
+
 <img width="794" height="307" alt="image" src="https://github.com/user-attachments/assets/e85866fb-fc25-4450-afcf-bf023ff10ac9" />
 
 ## 16/12/2025
