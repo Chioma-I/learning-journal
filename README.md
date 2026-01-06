@@ -91,6 +91,7 @@ However 7 different errors appeared after doing doing this, the first error is w
 Logical error, the text isnt appearing and I dont know why.
 Adding a debug script to the script to find the issue
 <img width="607" height="268" alt="image" src="https://github.com/user-attachments/assets/bf1926e1-0ec5-4ce8-b229-f1ab6f5e3f8d" />
+
 "OnTriggerEnter" shows as an error, not sure why. It gives a suggestion but the suggestion is also an error
 
 We ended up starting from scratch with a new script
